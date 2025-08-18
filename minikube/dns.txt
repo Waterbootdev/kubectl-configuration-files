@@ -1,0 +1,6 @@
+
+127.0.0.1        synchat.internal
+127.0.0.1        synchatapi.internal
+
+/etc/hosts
+/mnt/c/Windows/System32/drivers/etc/hosts 
