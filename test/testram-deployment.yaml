@@ -19,7 +19,7 @@ spec:
           name: synergychat-testram
           resources:
             limits:
-              memory: 50Mi
+              memory: 256Mi
           envFrom:
           - configMapRef:
               name: synergychat-testram-configmap
